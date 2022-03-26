@@ -15,7 +15,7 @@
 </template>
 
 <script setup lang='ts'>
-import { defineProps, computed } from 'vue'
+import { computed } from 'vue'
 //.ts
 import groupBy from '../assets/groupBy';
 import { ItemData, ItemName, getData } from '../assets/itemsData'

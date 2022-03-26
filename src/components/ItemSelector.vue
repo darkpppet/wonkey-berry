@@ -35,7 +35,6 @@
 </template>
 
 <script setup lang='ts'>
-import { defineEmits } from 'vue'
 //.ts
 import { ItemName } from '../assets/itemsData'
 //component

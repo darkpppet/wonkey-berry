@@ -14,8 +14,6 @@
 </template>
 
 <script setup lang='ts'>
-import { defineProps } from 'vue'
-
 const props = defineProps<{
     imgSrc: string, //이미지 경로
 }>();

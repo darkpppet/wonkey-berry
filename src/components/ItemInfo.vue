@@ -19,7 +19,6 @@
 </template>
 
 <script setup lang='ts'>
-import { defineProps } from 'vue'
 //.ts
 import { ItemData } from '../assets/itemsData'
 
