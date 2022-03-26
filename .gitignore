@@ -1,0 +1,7 @@
+.vscode/
+node_modules/
+pacakge-lock.json
+pacakge.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts

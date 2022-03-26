@@ -1,0 +1,19 @@
+#app {
+    width: 1200px;
+    margin: 25px auto;
+    border: 1px black solid;
+    border-radius: 10px;
+    background-color: aliceblue;
+    box-shadow: 1px 1px 1px;
+    font-family: 'Jua', sans-serif;
+    text-align: center;
+}
+
+.result-container {
+    margin: 15px 25px;
+    border: 1px black solid;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: lightcyan;
+    box-shadow: 1px 1px 1px;
+}
