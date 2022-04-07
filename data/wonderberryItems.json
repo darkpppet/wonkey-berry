@@ -1,47 +1,47 @@
 [{
-    "imgSrc": "/images/아로.gif",
+    "imgSrc": "./images/아로.gif",
     "name": "아로",
     "grade": "희귀 아이템",
     "type": "원더 블랙 펫",
     "prob": 0.0332
 }, {
-    "imgSrc": "/images/폴라.gif",
+    "imgSrc": "./images/폴라.gif",
     "name": "폴라",
     "grade": "희귀 아이템",
     "type": "원더 블랙 펫",
     "prob": 0.0332
 }, {
-    "imgSrc": "/images/하링.gif",
+    "imgSrc": "./images/하링.gif",
     "name": "하링",
     "grade": "희귀 아이템",
     "type": "원더 블랙 펫",
     "prob": 0.0332
 }, {
-    "imgSrc": "/images/맑음하트.gif",
+    "imgSrc": "./images/맑음하트.gif",
     "name": "맑음하트",
     "grade": "상급 아이템",
     "type": "원더 일반 펫",
     "prob": 0.1200
 }, {
-    "imgSrc": "/images/빠직번개.gif",
+    "imgSrc": "./images/빠직번개.gif",
     "name": "빠직번개",
     "grade": "상급 아이템",
     "type": "원더 일반 펫",
     "prob": 0.1200
 }, {
-    "imgSrc": "/images/눈물구름.gif",
+    "imgSrc": "./images/눈물구름.gif",
     "name": "눈물구름",
     "grade": "상급 아이템",
     "type": "원더 일반 펫",
     "prob": 0.1200
 }, {
-    "imgSrc": "/images/설탕탕.gif",
+    "imgSrc": "./images/설탕탕.gif",
     "name": "설탕탕",
     "grade": "상급 아이템",
     "type": "일반 멀티 펫",
     "prob": 0.1200
 }, {
-    "imgSrc": "/images/초코코.gif",
+    "imgSrc": "./images/초코코.gif",
     "name": "초코코",
     "grade": "상급 아이템",
     "type": "일반 멀티 펫",
