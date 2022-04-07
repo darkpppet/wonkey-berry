@@ -1,47 +1,47 @@
 [{
-    "imgSrc": "https://w.namu.la/s/f42937738e5cb3453b4346116da8c61596ca5463839eb0f05a8a737c46172f15c7ba67d59aa2b9afa3f68103efbfb5bee394d05f5240f2e809af72d6396c923265f48398206a49fa9ee21317abaf204ced61a57e4edd1308e68aa08516cf6114",
+    "imgSrc": "/images/아로.gif",
     "name": "아로",
     "grade": "희귀 아이템",
     "type": "원더 블랙 펫",
     "prob": 0.0332
 }, {
-    "imgSrc": "https://w.namu.la/s/b5ba54b82b3202ecf697be352f0dacbf22dc6e7e5d84987e451b004a6919ce745c9c5ae4fe648990177ecf7a6a97a8482cd3fdd1703d4922ebbd04160b33b328cfffc499a1f6d65e5abc9331c6bd3a461b42c9d44f73e4657252949900b47d5e",
+    "imgSrc": "/images/폴라.gif",
     "name": "폴라",
     "grade": "희귀 아이템",
     "type": "원더 블랙 펫",
     "prob": 0.0332
 }, {
-    "imgSrc": "https://w.namu.la/s/605ab982856e80c6d1a5b19f636db8644df3d4480550a5bf2d3dcd7020320e14e9b15959a74bbab323229834731a58aab7eb26468b9f28e748ef89d728b5a1ad0097b57cfdcdbcfa519ed476a1ed5044f9bf9890acebc861ce8393c65712fecf",
+    "imgSrc": "/images/하링.gif",
     "name": "하링",
     "grade": "희귀 아이템",
     "type": "원더 블랙 펫",
     "prob": 0.0332
 }, {
-    "imgSrc": "https://w.namu.la/s/c49bd63bacda4b5150d567a0fdbeb563c503cf81da6dabd8b1fc25ee5d50a645bd8f46d9fb9040da2e82379dc67ad8307f552f5f7b110b49dc4d9fbc32b47ab7118fcb6b8735af70c67ab4443084990ef8553873dba816dd9574eccb2b8f49da",
+    "imgSrc": "/images/맑음하트.gif",
     "name": "맑음하트",
     "grade": "상급 아이템",
     "type": "원더 일반 펫",
     "prob": 0.1200
 }, {
-    "imgSrc": "https://w.namu.la/s/79e6d9b5ce5a9c3f6b0b1f526658ffe05af56408c75ab585851be5878841e580a7b3364d431b7cb202923621048fccef8a8f66e3f89eb30dcdb60387f057e04a0846bb16871d14efe3956d18c0931b6e9804239093c494db026b49974a2e9802",
+    "imgSrc": "/images/빠직번개.gif",
     "name": "빠직번개",
     "grade": "상급 아이템",
     "type": "원더 일반 펫",
     "prob": 0.1200
 }, {
-    "imgSrc": "https://w.namu.la/s/4aa50543d1e20d6c08682f15a1de26e464ac1147b0e0f7108a16db9459e3b1ba123763f737153bcf9c64e6fc01fb48d3a117502459cdea42e84528498ce952c557c550c7cfc5d8357fe6727f592ba58b28fb6433f9de8fc8288c168e850bf859",
+    "imgSrc": "/images/눈물구름.gif",
     "name": "눈물구름",
     "grade": "상급 아이템",
     "type": "원더 일반 펫",
     "prob": 0.1200
 }, {
-    "imgSrc": "https://w.namu.la/s/59b6557e0c00044405ac5643990681b8d5c7c4c4233e9b70a2d758ec0195c98fbd34aaa5b6317f8b6c2ea1351189d4aa01a52d19ec448fc74b81f5605831e21c018207d8a27ef591f9e724d69baad9f79e7947104404e12b3e4f12839259ebae",
+    "imgSrc": "/images/설탕탕.gif",
     "name": "설탕탕",
     "grade": "상급 아이템",
     "type": "일반 멀티 펫",
     "prob": 0.1200
 }, {
-    "imgSrc": "https://w.namu.la/s/02f35c6504a91e554f877cf7e7ec458e7f83cfdfd628d926c81284e901cd30cb09ae0f85630cb4569b501acc39cad978ed3f7099b61f867a3117a4cd30dcfbdf19d2b17261bebdcec3609425370990bd6c7d747ae61c0c3f8c3d090cdd244683",
+    "imgSrc": "/images/초코코.gif",
     "name": "초코코",
     "grade": "상급 아이템",
     "type": "일반 멀티 펫",

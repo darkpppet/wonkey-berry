@@ -11,7 +11,7 @@
     <!-- 위습의 원더베리 -->
     <label>
         <input type='radio' class='select-radio' name='item-selector-radio' value='WispsWonderberry' @change='changeItem' checked />
-        <ImageText :imgSrc='"https://w.namu.la/s/21591ef8728b01c5e78ab0de23f5a3e588818baf14b3b28e2308986c534de40a2248c1587411b27487c464bee3a042c70bffee6101efaad9c45639bc8acb1757fafc27d94168c1284de2254c246b581a5cddf6996cb929a35ec2343c87ddf2da"'>
+        <ImageText :imgSrc='"/images/위습의원더베리.png"'>
             위습의 원더베리
         </ImageText>
     </label>
@@ -19,7 +19,7 @@
     <!-- 루나 크리스탈 스윗 -->
     <label>
         <input type='radio' class='select-radio' name='item-selector-radio' value='LunaCrystalSweet' @change='changeItem' />
-        <ImageText :imgSrc='"https://w.namu.la/s/55a49812241f837105c7dd9e9ad3fae8dc6e5df939e2f28ec6c3c85ae1a93f52b15258d89e3c988a340c2d6745b26e4003f70bd917ddb784e6d63711dc9e371622b8e98971f4a4795f6768cfd002d80fb7448046dda0bd3ed7670f9f5636b47c"'>
+        <ImageText :imgSrc='"/images/루나크리스탈.png"'>
             루나 크리스탈 스윗
         </ImageText>
     </label>
@@ -27,7 +27,7 @@
     <!-- 루나 크리스탈 드림 -->
     <label>
         <input type='radio' class='select-radio' name='item-selector-radio' value='LunaCrystalDream' @change='changeItem' />
-        <ImageText :imgSrc='"https://w.namu.la/s/55a49812241f837105c7dd9e9ad3fae8dc6e5df939e2f28ec6c3c85ae1a93f52b15258d89e3c988a340c2d6745b26e4003f70bd917ddb784e6d63711dc9e371622b8e98971f4a4795f6768cfd002d80fb7448046dda0bd3ed7670f9f5636b47c"'>
+        <ImageText :imgSrc='"/images/루나크리스탈.png"'>
             루나 크리스탈 드림
         </ImageText>
     </label>

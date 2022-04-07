@@ -1,60 +1,60 @@
 [{
-    "imgSrc": "https://w.namu.la/s/a179a16ad5221b0507c19cbd9368b7b012753dcafb7b3d21f427b782c46d88a76950f258d2a3b8e4d5007892ce33096c79a6076da3a587e39fe01029fde3d3486dd3bd2460865d4700db3e67815729c595c4aa026a5f00612309995cd0936902",
+    "imgSrc": "/images/눈냥냥.gif",
     "name": "눈냥냥",
     "type": "루나 스윗 펫",
     "prob": 0.0960
 }, {
-    "imgSrc": "https://w.namu.la/s/083b019d2b8e764f2a2db3adbeeefa4104dedf7588cfbddf86462106ee31fc25897c37af47149b7cdac31cfaf96a9e63c573f9d4b64ae63bb413890ab1cf9ae61c16f23921d4476c8b6ffacfef5775f67b1b392e84a81c59b232c3579dbadaf3",
+    "imgSrc": "/images/토냥냥.gif",
     "name": "토냥냥",
     "type": "루나 스윗 펫",
     "prob": 0.0960
 }, {
-    "imgSrc": "https://w.namu.la/s/9ebb2926c5cfab9566d5079553e409231686faca9edbd1627e584747d26f8ffcfd87e79eaea414a8c59ebc278a83782ae680d762373dbd5cceaab99d96e2c4a1d224e505f762e574dccc4ed0dc8c81a0741b65b3f533efd716e648e9c4c49046",
+    "imgSrc": "/images/판냥냥.gif",
     "name": "판냥냥",
     "type": "루나 스윗 펫",
     "prob": 0.0960
 }, {
-    "imgSrc": "https://w.namu.la/s/22667ce4d65b76ba2e3477759aed9dba0dafa63c49523fc953f3232d91a878f1a20d59793bddc4f9e5f211981f57d7cd87ca6fe3a341b46db9c590f883d20336628f0e7354ddd70b9920822fc263b7fbe3da7273f5cd174c3d4988031dc17363",
+    "imgSrc": "/images/리틀울프룻.gif",
     "name": "리틀 울프룻",
     "type": "루나 스윗 펫",
     "prob": 0.0960
 }, {
-    "imgSrc": "https://w.namu.la/s/35007f78f028b4b45d00e1ba94d9952d463924bd3ff596d7abae2d3883699ff969e00e88437b1739ccdd3be70bb0e2c704918e56af64d3667cd9ad2699d13e9f4b787f330d5a0eb80500004a60ed0eb694255e482c31fd312a4462bb96b0c290",
+    "imgSrc": "/images/리틀무토.gif",
     "name": "리틀 무토",
     "type": "루나 스윗 펫",
     "prob": 0.0960
 }, {
-    "imgSrc": "https://w.namu.la/s/89f9b88ea1de7fe838d8d11c0d0c08ec46bea9f3d4a7a34dcdd2b565f7e371e468109356ab39fd08c8a50de56759c8765f2f3afaeac39071106b6495ca0d6be57fe257572ac8befe142f86b91fc3298b5e9f08a6c4b0ffcd0cbca33885cb3f9e",
+    "imgSrc": "/images/리틀램나나.gif",
     "name": "리틀 램나나",
     "type": "루나 스윗 펫",
     "prob": 0.0960
 }, {
-    "imgSrc": "https://w.namu.la/s/da66edae3b89e602b95e93bae5a0a6ca736581b063c16677a9d68ee6a61c244f8d8436319258587dbce4a2f92fe0ec07bc9aadc287cf27707b7f232be168054d0a83dbd1f594d5f05aaf2d3406bf0e79ad879e31cc4e560e333cd74b3ee65810",
+    "imgSrc": "/images/피치버블.gif",
     "name": "피치버블",
     "type": "루나 스윗 펫",
     "prob": 0.0960
 }, {
-    "imgSrc": "https://w.namu.la/s/1790faee606168ad318f90d33be2aace813549089cc9a9003bcad663719bd5b3bd54613da346230ce3d989cf4f30c7fdd339fdca0fcb1ea2970e5072e9ddc55b7adc76af8245216c7818c5158ba847497eb4db9cb4db828525f45913dc9b7f43",
+    "imgSrc": "/images/리프버블.gif",
     "name": "리프버블",
     "type": "루나 스윗 펫",
     "prob": 0.0960
 }, {
-    "imgSrc": "https://w.namu.la/s/cc556fce1d135ca2ff3a0bfc0ae2e131d0508b664d0f526838da78bde53dd911cbe18e9930a9b09505c89b49ef35574a509a5ec698421caf232ffb2c1775ac233b7859148eda6ab96fbf00bfb3097fb9afcda6f975fb29ff4e289772eb3033e4",
+    "imgSrc": "/images/민트버블.gif",
     "name": "민트버블",
     "type": "루나 스윗 펫",
     "prob": 0.0960
 }, {
-    "imgSrc": "https://w.namu.la/s/6342847ec42236e4792d2fc0f418d8d649b5767af2779b6f7fd82e5a841063fbcfd575ce738f6b57301d29c85fc2f5f8e43b0f118d45e86786308595df9e4ebc60a9a45087dd810bd32e90290435234eddd30561b8c0905ca93540cd28cd917d",
+    "imgSrc": "/images/토트.gif",
     "name": "토트",
     "type": "루나 쁘띠 펫",
     "prob": 0.0388
 }, {
-    "imgSrc": "https://w.namu.la/s/112450d374544daa88a12922258d32bbed154c6d4488d4eaa3bf9436cc1de135f2d95db60abc9d24a05a19d9aee1bed08ce1d6937097c00a511a0ffd1c76e65f4c87d5d46880a5513204b5a46e33ff4111f417a4bd8b8412945f73b97e859008",
+    "imgSrc": "/images/벨라.gif",
     "name": "벨라",
     "type": "루나 쁘띠 펫",
     "prob": 0.0388
 }, {
-    "imgSrc": "https://w.namu.la/s/67d70b318774f039a37c3bba7bf684ef4a973c8633f75c6cff4bd1184d46ab08a009173778d4227c4d0fc48da99582d4842390617c6ef5f1befa76bac6381a789d6a20171fb65c5eceff665a4d18bb34ea85f756440dd1966b16956880d3b706",
+    "imgSrc": "/images/쁘띠데스.gif",
     "name": "쁘띠 데스",
     "type": "루나 쁘띠 펫",
     "prob": 0.0388
