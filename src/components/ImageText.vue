@@ -24,5 +24,6 @@ const props = defineProps<{
     width: 25px;
     height: 25px;
     vertical-align: bottom;
+    object-fit: scale-down;
 }
 </style>

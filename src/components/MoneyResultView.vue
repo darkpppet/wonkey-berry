@@ -10,21 +10,21 @@
 <div class='result-container'>
     <!-- 원더베리 -->
     <div v-if='itemType==="WispsWonderberry"'>
-        <ImageText :imgSrc='"/images/위습의원더베리.png"'>
+        <ImageText :imgSrc='"images/위습의원더베리.png"'>
             사용개수: {{ useCount }}개
         </ImageText>
         &nbsp;
-        <ImageText :imgSrc='"/images/메소.png"'>
+        <ImageText :imgSrc='"images/메소.png"'>
             누적금액: {{ (useCount * 5400).toLocaleString() }}원
         </ImageText>
     </div>
     <!-- 루나 크리스탈 -->
     <div v-else>
-        <ImageText :imgSrc='"/images/루나크리스탈.png"'>
+        <ImageText :imgSrc='"images/루나크리스탈.png"'>
             사용개수: {{ useCount }}개
         </ImageText>
         &nbsp;
-        <ImageText :imgSrc='"/images/메소.png"'>
+        <ImageText :imgSrc='"images/메소.png"'>
             누적금액: {{ (useCount * 3900).toLocaleString() }}원
         </ImageText>
         <!-- 루나 크리스탈 스윗 -->

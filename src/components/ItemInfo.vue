@@ -41,6 +41,7 @@ const props = defineProps<{
     width: 40px;
     height: 40px;
     margin: auto;
+    object-fit: scale-down;
 }
 
 .text-wrapper {

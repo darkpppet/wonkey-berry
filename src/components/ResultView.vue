@@ -21,7 +21,6 @@ import groupBy from '../assets/groupBy';
 import { ItemData, ItemName, getData } from '../assets/itemsData'
 //component
 import TypeGroup from './TypeGroup.vue'
-import ItemInfo from './ItemInfo.vue'
 
 const props = defineProps<{
     itemType: ItemName, //아이템 종류

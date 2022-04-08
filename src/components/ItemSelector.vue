@@ -11,7 +11,7 @@
     <!-- 위습의 원더베리 -->
     <label>
         <input type='radio' class='select-radio' name='item-selector-radio' value='WispsWonderberry' @change='changeItem' checked />
-        <ImageText :imgSrc='"/images/위습의원더베리.png"'>
+        <ImageText :imgSrc='"images/위습의원더베리.png"'>
             위습의 원더베리
         </ImageText>
     </label>
@@ -19,7 +19,7 @@
     <!-- 루나 크리스탈 스윗 -->
     <label>
         <input type='radio' class='select-radio' name='item-selector-radio' value='LunaCrystalSweet' @change='changeItem' />
-        <ImageText :imgSrc='"/images/루나크리스탈.png"'>
+        <ImageText :imgSrc='"images/루나크리스탈.png"'>
             루나 크리스탈 스윗
         </ImageText>
     </label>
@@ -27,7 +27,7 @@
     <!-- 루나 크리스탈 드림 -->
     <label>
         <input type='radio' class='select-radio' name='item-selector-radio' value='LunaCrystalDream' @change='changeItem' />
-        <ImageText :imgSrc='"/images/루나크리스탈.png"'>
+        <ImageText :imgSrc='"images/루나크리스탈.png"'>
             루나 크리스탈 드림
         </ImageText>
     </label>

@@ -2,9 +2,9 @@ import wonderberryItemsObj from '../../public/data/wonderberryItems.json';
 import lunacrystalSweetItemsObj from '../../public/data/lunacrystalSweetItems.json';
 import lunacrystalDreamItemsObj from '../../public/data/lunacrystalDreamItems.json';
 
-export const wonderberryItems: ReadonlyArray<ItemData> = wonderberryItemsObj as ReadonlyArray<ItemData>; //원더베리 아이템들
-export const lunacrystalSweetItems: ReadonlyArray<ItemData> = lunacrystalSweetItemsObj as ReadonlyArray<ItemData>; //루나 크리스탈 스윗 아이템들
-export const lunacrystalDreamItems: ReadonlyArray<ItemData> = lunacrystalDreamItemsObj as ReadonlyArray<ItemData>; //루나 크리스탈 드림 아이템들
+export const wonderberryItems: readonly ItemData[] = wonderberryItemsObj as readonly ItemData[]; //원더베리 아이템들
+export const lunacrystalSweetItems: readonly ItemData[] = lunacrystalSweetItemsObj as readonly ItemData[]; //루나 크리스탈 스윗 아이템들
+export const lunacrystalDreamItems: readonly ItemData[] = lunacrystalDreamItemsObj as readonly ItemData[]; //루나 크리스탈 드림 아이템들
 
 //아이템 정보 인터페이스
 export interface ItemData {
@@ -22,7 +22,7 @@ export interface ItemData {
 export type ItemName = "WispsWonderberry" | "LunaCrystalSweet" | "LunaCrystalDream";
 
 //아이템 이름(string)으로 아이템 오브젝트(ItemData)들(ReadonlyArray<ItemData>) 리턴하는 함수
-export function getData(itemName: ItemName): ReadonlyArray<ItemData> {
+export const getData = (itemName: ItemName): readonly ItemData[] => {
     switch (itemName) {
         //위습의 원더베리
         case "WispsWonderberry":

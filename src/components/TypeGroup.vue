@@ -27,7 +27,7 @@ import ItemInfo from './ItemInfo.vue'
 
 const props = defineProps<{
     groupName: string, //type(혹은 grade) 이름
-    groupItems: ItemData[], //아이템들
+    groupItems: readonly ItemData[], //아이템들
     groupItemsCount: { [key: string]: number }, //아이템들 각각의 개수; key: 아이템 이름, value: 개수
 }>();
 
@@ -43,6 +43,7 @@ const groupCount = computed(() => Object.entries(props.groupItemsCount).map(i =>
 
 .items-container {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 }
 </style>
