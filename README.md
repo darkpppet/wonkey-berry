@@ -2,7 +2,7 @@
 
 ## https://darkpppet.github.io/wonkey-berry/
 
-* Vue.js 3.2.31 (with Typescript 4.6.3)
+* Vue.js 3.2.32 (with Typescript 4.6.3)
 * Vite 2.9.1
 
 ---
