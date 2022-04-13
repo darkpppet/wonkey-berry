@@ -14,7 +14,10 @@
     <!-- 뽑기 결과 -->
     <ResultView :itemType="selectedItem" :itemsCount="itemsCount" />
     <!-- 뽑는 버튼 -->
-    <button id='using-button' @click='gacha'>사용</button>
+    <div id="button-container">
+        <button class='using-button' @click='gacha'>사용</button>
+        <button class='using-button' @click='gacha10'>10회 사용</button>
+    </div>
 </div>
 </template>
 
@@ -35,17 +38,25 @@ const clickCount = ref(0);
 //아이템별로 뽑은 횟수; key: 아이템 이름
 const itemsCount = ref(getData('WispsWonderberry').reduce((result, value) => { result[value.name] = 0; return result; }, {} as { [k: string]: number }));
 
-//라디오버튼 바뀌면 실행되는 메소드; selectedItem 변경
+//라디오버튼 바뀌면 실행되는 함수; selectedItem 변경
 const changeSelected = (value: ItemName): void => {
     selectedItem.value = value;
     clickCount.value = 0;
     itemsCount.value = getData(selectedItem.value).reduce((result, value) => { result[value.name] = 0; return result; }, {} as { [k: string]: number })
 };
 
-//버튼 누르면 실행되는 메소드; clickCount 증가 및 확률에 따라 랜덤으로 뽑은 itemsCount["key"] 값 증가
+//버튼 누르면 실행되는 함수; clickCount 증가 및 확률에 따라 랜덤으로 뽑은 itemsCount["key"] 값 증가
 const gacha = (): void => {
     clickCount.value++;
     itemsCount.value[choose(getData(selectedItem.value), Math.random())]++;
+};
+
+//gacha() 10번 실행하는 함수
+const gacha10 = (): void => {
+    for (let _ of new Array(10)) {
+        console.log(111);
+        gacha();
+    }
 };
 </script>
 
@@ -55,10 +66,15 @@ const gacha = (): void => {
     font-size: 40px;
 }
 
-#using-button {
+#button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.using-button {
     width: 160px;
     height: 75px;
-    margin-bottom: 25px;
+    margin: auto 5px 25px 5px;
     border-radius: 5px;
     font-family: 'Jua', sans-serif;
     font-size: 30px;
