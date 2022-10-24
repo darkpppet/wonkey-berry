@@ -1,0 +1,66 @@
+[{
+    "imgSrc": "images/피치버블.gif",
+    "name": "피치버블",
+    "type": "루나 스윗 펫",
+    "prob": 0.0960
+}, {
+    "imgSrc": "images/리프버블.gif",
+    "name": "리프버블",
+    "type": "루나 스윗 펫",
+    "prob": 0.0960
+}, {
+    "imgSrc": "images/민트버블.gif",
+    "name": "민트버블",
+    "type": "루나 스윗 펫",
+    "prob": 0.0960
+}, {
+    "imgSrc": "images/아로.gif",
+    "name": "아로",
+    "type": "루나 스윗 펫",
+    "prob": 0.0960
+}, {
+    "imgSrc": "images/폴라.gif",
+    "name": "폴라",
+    "type": "루나 스윗 펫",
+    "prob": 0.0960
+}, {
+    "imgSrc": "images/하링.gif",
+    "name": "하링",
+    "type": "루나 스윗 펫",
+    "prob": 0.0960
+}, {
+    "imgSrc": "images/크앙.gif",
+    "name": "크앙",
+    "type": "루나 스윗 펫",
+    "prob": 0.0960
+}, {
+    "imgSrc": "images/캬앙.gif",
+    "name": "캬앙",
+    "type": "루나 스윗 펫",
+    "prob": 0.0960
+}, {
+    "imgSrc": "images/꺄앙.gif",
+    "name": "꺄앙",
+    "type": "루나 스윗 펫",
+    "prob": 0.0960
+}, {
+    "imgSrc": "images/토트.gif",
+    "name": "토트",
+    "type": "루나 쁘띠 펫",
+    "prob": 0.0388
+}, {
+    "imgSrc": "images/벨라.gif",
+    "name": "벨라",
+    "type": "루나 쁘띠 펫",
+    "prob": 0.0388
+}, {
+    "imgSrc": "images/쁘띠데스.gif",
+    "name": "쁘띠 데스",
+    "type": "루나 쁘띠 펫",
+    "prob": 0.0388
+}, {
+    "imgSrc": "images/루나크리스탈키.png",
+    "name": "루나 크리스탈 키",
+    "type": "루나 쁘띠 공용 펫장비",
+    "prob": 0.0196
+}]
