@@ -1,59 +1,59 @@
 [{
-    "imgSrc": "images/아로.gif",
-    "name": "아로",
+    "imgSrc": "images/뒤뚱.gif",
+    "name": "뒤뚱",
     "grade": "희귀 아이템",
     "type": "원더 블랙 펫",
     "prob": 0.0332
 }, {
-    "imgSrc": "images/폴라.gif",
-    "name": "폴라",
+    "imgSrc": "images/쿨쿨.gif",
+    "name": "쿨쿨",
     "grade": "희귀 아이템",
     "type": "원더 블랙 펫",
     "prob": 0.0332
 }, {
-    "imgSrc": "images/하링.gif",
-    "name": "하링",
+    "imgSrc": "images/꾸벅.gif",
+    "name": "꾸벅",
     "grade": "희귀 아이템",
     "type": "원더 블랙 펫",
     "prob": 0.0332
 }, {
-    "imgSrc": "images/맑음하트.gif",
-    "name": "맑음하트",
+    "imgSrc": "images/가시곰핑크.gif",
+    "name": "가시곰 핑크",
     "grade": "상급 아이템",
     "type": "원더 일반 펫",
     "prob": 0.1200
 }, {
-    "imgSrc": "images/빠직번개.gif",
-    "name": "빠직번개",
+    "imgSrc": "images/가시곰블루.gif",
+    "name": "가시곰 블루",
     "grade": "상급 아이템",
     "type": "원더 일반 펫",
     "prob": 0.1200
 }, {
-    "imgSrc": "images/눈물구름.gif",
-    "name": "눈물구름",
+    "imgSrc": "images/가시곰옐로.gif",
+    "name": "가시곰 옐로",
     "grade": "상급 아이템",
     "type": "원더 일반 펫",
     "prob": 0.1200
 }, {
-    "imgSrc": "images/설탕탕.gif",
-    "name": "설탕탕",
+    "imgSrc": "images/작은돌의정령.gif",
+    "name": "작은돌의정령",
     "grade": "상급 아이템",
     "type": "일반 멀티 펫",
     "prob": 0.1200
 }, {
-    "imgSrc": "images/초코코.gif",
-    "name": "초코코",
+    "imgSrc": "images/큰돌의정령.gif",
+    "name": "큰돌의정령",
     "grade": "상급 아이템",
     "type": "일반 멀티 펫",
     "prob": 0.1200
 }, {
-    "imgSrc": "",
+    "imgSrc": "images/고농축프리미엄생명의물.png",
     "name": "고농축 프리미엄 생명의 물",
     "grade": "노멀 아이템",
     "type": "고농축 프리미엄 생명의 물",
     "prob": 0.1502
 }, {
-    "imgSrc": "",
+    "imgSrc": "images/오가닉원더쿠키.png",
     "name": "오가닉 원더 쿠키",
     "grade": "노멀 아이템",
     "type": "펫 먹이",

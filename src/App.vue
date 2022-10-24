@@ -17,6 +17,7 @@
     <div id="button-container">
         <button class='using-button' @click='gacha'>사용</button>
         <button class='using-button' @click='gacha10'>10회 사용</button>
+        <button class='using-button' @click='reset'>초기화</button>
     </div>
 </div>
 </template>
@@ -41,8 +42,7 @@ const itemsCount = ref(getData('WispsWonderberry').reduce((result, value) => { r
 //라디오버튼 바뀌면 실행되는 함수; selectedItem 변경
 const changeSelected = (value: ItemName): void => {
     selectedItem.value = value;
-    clickCount.value = 0;
-    itemsCount.value = getData(selectedItem.value).reduce((result, value) => { result[value.name] = 0; return result; }, {} as { [k: string]: number })
+    reset();
 };
 
 //버튼 누르면 실행되는 함수; clickCount 증가 및 확률에 따라 랜덤으로 뽑은 itemsCount["key"] 값 증가
@@ -54,10 +54,15 @@ const gacha = (): void => {
 //gacha() 10번 실행하는 함수
 const gacha10 = (): void => {
     for (let _ of new Array(10)) {
-        console.log(111);
         gacha();
     }
 };
+
+//가챠 결과 초기화
+const reset = (): void => {
+    clickCount.value = 0;
+    itemsCount.value = getData(selectedItem.value).reduce((result, value) => { result[value.name] = 0; return result; }, {} as { [k: string]: number })
+}
 </script>
 
 <style scoped>

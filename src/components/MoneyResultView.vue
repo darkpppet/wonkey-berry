@@ -14,7 +14,7 @@
             사용개수: {{ useCount }}개
         </ImageText>
         &nbsp;
-        <ImageText :imgSrc='"images/메소.png"'>
+        <ImageText :imgSrc='"images/캐시.png"'>
             누적금액: {{ (useCount * 5400).toLocaleString() }}원
         </ImageText>
     </div>
@@ -24,23 +24,24 @@
             사용개수: {{ useCount }}개
         </ImageText>
         &nbsp;
-        <ImageText :imgSrc='"images/메소.png"'>
+        <ImageText :imgSrc='"images/캐시.png"'>
             누적금액: {{ (useCount * 3900).toLocaleString() }}원
         </ImageText>
+        <div class='split-bar'></div>
         <!-- 루나 크리스탈 스윗 -->
         <div v-if='itemType==="LunaCrystalSweet"'>
-            <ImageText :imgSrc='(new String()).toString()'>
+            <ImageText :imgSrc='"images/원더블랙.png"'>
                 원더 블랙 사용 개수: {{ useCount * 2 }}개
             </ImageText>
         </div>
         <!-- 루나 크리스탈 드림 -->
         <div v-else>
             <span>
-                <ImageText :imgSrc='(new String()).toString()'>
+                <ImageText :imgSrc='"images/루나스윗.png"'>
                     루나 스윗 사용 개수: {{ useCount }}개
                 </ImageText>
                 &nbsp;
-                <ImageText :imgSrc='(new String()).toString()'>
+                <ImageText :imgSrc='"images/원더블랙.png"'>
                     원더 블랙 사용 개수: {{ useCount }}개
                 </ImageText>
             </span>
@@ -62,4 +63,7 @@ const props = defineProps<{
 </script>
 
 <style scoped>
+.split-bar {
+    margin: 5px;
+}
 </style>

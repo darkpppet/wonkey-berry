@@ -1,34 +1,4 @@
 [{
-    "imgSrc": "images/눈냥냥.gif",
-    "name": "눈냥냥",
-    "type": "루나 드림 펫",
-    "prob": 0.0840
-}, {
-    "imgSrc": "images/토냥냥.gif",
-    "name": "토냥냥",
-    "type": "루나 드림 펫",
-    "prob": 0.0840
-}, {
-    "imgSrc": "images/판냥냥.gif",
-    "name": "판냥냥",
-    "type": "루나 드림 펫",
-    "prob": 0.0840
-}, {
-    "imgSrc": "images/리틀울프룻.gif",
-    "name": "리틀 울프룻",
-    "type": "루나 드림 펫",
-    "prob": 0.0840
-}, {
-    "imgSrc": "images/리틀무토.gif",
-    "name": "리틀 무토",
-    "type": "루나 드림 펫",
-    "prob": 0.0840
-}, {
-    "imgSrc": "images/리틀램나나.gif",
-    "name": "리틀 램나나",
-    "type": "루나 드림 펫",
-    "prob": 0.0840
-}, {
     "imgSrc": "images/피치버블.gif",
     "name": "피치버블",
     "type": "루나 드림 펫",
@@ -41,6 +11,36 @@
 }, {
     "imgSrc": "images/민트버블.gif",
     "name": "민트버블",
+    "type": "루나 드림 펫",
+    "prob": 0.0840
+}, {
+    "imgSrc": "images/아로.gif",
+    "name": "아로",
+    "type": "루나 드림 펫",
+    "prob": 0.0840
+}, {
+    "imgSrc": "images/폴라.gif",
+    "name": "폴라",
+    "type": "루나 드림 펫",
+    "prob": 0.0840
+}, {
+    "imgSrc": "images/하링.gif",
+    "name": "하링",
+    "type": "루나 드림 펫",
+    "prob": 0.0840
+}, {
+    "imgSrc": "images/크앙.gif",
+    "name": "크앙",
+    "type": "루나 드림 펫",
+    "prob": 0.0840
+}, {
+    "imgSrc": "images/캬앙.gif",
+    "name": "캬앙",
+    "type": "루나 드림 펫",
+    "prob": 0.0840
+}, {
+    "imgSrc": "images/꺄앙.gif",
+    "name": "꺄앙",
     "type": "루나 드림 펫",
     "prob": 0.0840
 }, {
@@ -59,7 +59,7 @@
     "type": "루나 쁘띠 펫",
     "prob": 0.0680
 }, {
-    "imgSrc": "",
+    "imgSrc": "images/루나크리스탈키.png",
     "name": "루나 크리스탈 키",
     "type": "루나 쁘띠 공용 펫장비",
     "prob": 0.0400
