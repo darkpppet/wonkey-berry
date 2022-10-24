@@ -1,4 +1,4 @@
-# 원기베리 시뮬레이터
+# 원기베리 시뮬레이터 Ver. 0.3
 
 ## https://darkpppet.github.io/wonkey-berry/
 
